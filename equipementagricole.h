@@ -12,4 +12,4 @@ int fonctionnement;
 void ajouter(eqpagri e);
 void modifier(eqpagri e);
 void supprimer(eqpagri e);
-Eqpagri chercher(eqpagri e);
+eqpagri chercher(eqpagri e);
